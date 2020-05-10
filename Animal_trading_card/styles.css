@@ -1,0 +1,42 @@
+#main{
+  width:300px;
+  border:.8px solid #B7B7B7;
+  padding:8px;
+  box-shadow: 5px 5px  #C9C9C9;
+}
+
+img{
+  padding-bottom: 5px;
+}
+
+h3
+{
+margin-top: 5px;
+margin-bottom: 15px;
+}
+.info{
+  width:288px;
+  border:.8px solid #B7B7B7;
+  padding:5px;
+}
+
+.fact{
+  font-style: italic;
+  font-size: 10px;
+}
+
+span{
+font-weight: bold;
+font-size: 12px;
+}
+
+ul{
+  list-style: none;
+  text-align: left;
+  padding-left: 0px;
+  font-size: 10px;
+}
+
+p{
+  font-size: 10px;
+}
