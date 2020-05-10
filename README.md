@@ -1,2 +1,2 @@
-# Animal-_trading-_card
+# Animal-trading-card
 An animal card done using HTML and CSS. 
